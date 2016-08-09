@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Wawjob
+        psr4_prefix: Wawjob
+        src_path: app
